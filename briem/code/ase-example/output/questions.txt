@@ -1,0 +1,38 @@
+Question Header
+Start of question question_2: Welche Prinzipien lernen Sie in der Vorlesung kennen?
+Presentation 2: Welche Prinzipien lernen Sie in der Vorlesung kennen?
+Response 0: Auge um Auge Zahn um Zahn
+Response 1: Alle Pizzas gehen hoch
+Response 2: Single Responsibility Principle
+Response 3: Fahrgäste werden grundlegend vorwärts transportiert
+Response 4: Ungekühlte Lebensmittel halten länger
+Response processing: 
+Condition checked reward: -1 unchecked reward: 1
+Condition checked reward: -1 unchecked reward: 1
+Condition checked reward: 1 unchecked reward: -1
+Condition checked reward: -1 unchecked reward: 1
+Condition checked reward: -1 unchecked reward: 1
+Feedback: response_0
+Feedback: response_1
+Feedback: response_2
+Feedback: response_3
+Feedback: response_4End of question: question_2
+Start of question question_4: Welche der folgenden Aufgaben obliegen dem Dozenten in der Vorlesung?
+Presentation 4: Welche der folgenden Aufgaben obliegen dem Dozenten in der Vorlesung?
+Response 0: Vorlesung halten
+Response 1: Klausur schreiben
+Response 2: Ein Handstand am Ende jeder Vorlesung
+Response 3: Stellen einer Klausur
+Response 4: Wissen an Studierende vermitteln
+Response processing: 
+Condition checked reward: 1 unchecked reward: -1
+Condition checked reward: -1 unchecked reward: 1
+Condition checked reward: -1 unchecked reward: 1
+Condition checked reward: 1 unchecked reward: -1
+Condition checked reward: 1 unchecked reward: -1
+Feedback: response_0
+Feedback: response_1
+Feedback: response_2
+Feedback: response_3
+Feedback: response_4End of question: question_4
+Question Footer

@@ -1,0 +1,8 @@
+Pool Header
+PageObject: question_2
+PageObject: question_4
+Skill Assignment Header
+Skills for question id: 2
+Skills for question id: 4
+Skill Assignment Footer
+Pool Footer

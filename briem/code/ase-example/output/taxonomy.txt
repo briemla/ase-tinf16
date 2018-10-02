@@ -1,0 +1,4 @@
+Taxonomy Header
+Taxonomy for: 2
+Taxonomy for: 4
+Taxonomy Footer
