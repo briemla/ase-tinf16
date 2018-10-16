@@ -1,4 +1,4 @@
-# Advanced Software Engineering TINF15 - B2, B4 und B5
+# Advanced Software Engineering TINF16 - B2, B4 und B5
 ## Aufteilung der Dozenten
 ### Kurs B2
 1. Lars Briem
@@ -31,3 +31,10 @@
 * Don't Repeat Yourself
 * You ain't gonna need it
 * Conway's Law
+
+## Kurs B4
+### 09.10.18 - Domain-Driven Design (Dostmann)
+* Warum Design
+* strategisches DDD
+* taktisches DDD bis inkl. Domain Services
+* Unsicher, ob Dependency Injection verstanden wurde
