@@ -32,6 +32,25 @@
 * You ain't gonna need it
 * Conway's Law
 
+### 16.10.18 - Entwurfsmuster
+* Einführung
+* Einteilung
+* Dekorierer
+* Erbauer
+* Kompositum
+* Strategie
+
+### 19.02.18 - (Unit) Testing
+* Arten von Tests
+* xUnit/JUnit
+* A-TRIP Regeln
+  * Automatic
+  * Thorough
+  * Repeatable
+  * Independent
+  * Professional
+* Matcher
+
 ## Kurs B4
 ### 09.10.18 - Domain-Driven Design (Dostmann)
 * Warum Design
