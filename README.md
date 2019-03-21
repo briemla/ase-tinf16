@@ -40,7 +40,7 @@
 * Kompositum
 * Strategie
 
-### 19.02.18 - (Unit) Testing
+### 19.02.19 - (Unit) Testing
 * Arten von Tests
 * xUnit/JUnit
 * A-TRIP Regeln
@@ -50,6 +50,43 @@
   * Independent
   * Professional
 * Matcher
+
+### 26.02.19 - (Unit) Testing
+* Mocking
+* Code Coverage
+* Test First/TDD
+
+### 26.02.19 - Refactoring
+* Bedeutung/Definition
+* Gründe für Refactoring
+* Zeitpunkt für Refactoring
+
+### 05.03.19 - Refactoring
+* Schwierigkeiten mit Refactoring
+* Code Smells
+  * Duplicated Code
+  * Long Method
+  * Large Class
+  * Shotgun Surgery
+  * Switch Statements
+  * Code Comments
+* Refactorings
+  * Extract Method
+  * Rename Method
+  * Replace Temp with Query
+  * Replace Conditional with Polymorphism
+  * Replace ErrorCode with Exception
+  * Replace Inheritance with Delegation
+
+### 21.03.19 - UI Entwicklung
+* Rollen bei der UI Entwicklung
+* User Centered Design Process
+* Definition Usability/User Experience
+* Analyse
+* Mentales Modell
+* Design
+* Anzahl Features vs. Komplexität
+* Gestalt Prinzipien
 
 ## Kurs B4
 ### 09.10.18 - Domain-Driven Design (Dostmann)
