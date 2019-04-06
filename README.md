@@ -88,6 +88,28 @@
 * Anzahl Features vs. Komplexität
 * Gestalt Prinzipien
 
+### 05.04.19 - Usability Evaluation
+* Experten Review
+  * Systemstatus
+  * Realität vs. System
+  * Konsistenz / Einhaltung von Standards
+  * Flexibilität
+  * Gedächtnis des Benutzers entlasten
+  * Minimalistisches Design
+  * Benutzern einen Ausweg lassen
+  * Fehlervermeidung
+  * Fehlerbehandlung
+  * Hilfe und Dokumentation
+* Usability Test
+  * Testarten
+  * Vorbereitung
+  * Einführung
+  * Durchführung
+  * Auswahlkriterien
+  * Häufige Fehler
+  * Evaluation
+  * A / B Tests
+
 ## Kurs B4
 ### 09.10.18 - Domain-Driven Design (Dostmann)
 * Warum Design
